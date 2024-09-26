@@ -30,9 +30,3 @@ In your case, it needs permissions for `ec2:DescribeSnapshots`, `ec2:DescribeIns
 Save your Lambda function.
 You can **manually** test the function by clicking **"Test"** in the Lambda Console.
 
-
-
-## Acknowledgments
-
-I would like to express my gratitude to my teacher, **Abhishek Veeramalla**, for his invaluable guidance and support throughout the development of this project. His expertise and dedication have been instrumental in shaping my understanding and skills. I highly recommend checking out his insightful tutorials on his YouTube channel [Abhishek Veeramalla](https://www.youtube.com/@AbhishekVeeramalla) for further learning and inspiration.
-
